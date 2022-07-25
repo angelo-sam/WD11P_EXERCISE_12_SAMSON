@@ -1,0 +1,6 @@
+html{
+    scroll-behavior: smooth;
+}
+.card-body{
+    background-color: #107C10;
+}
